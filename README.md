@@ -71,4 +71,6 @@ https://gateway.on24.com/wcc/eh/2429684/lp/2748276/data-acquisition-and-machine-
 * From a list of MATLAB files in the 'wood classification demo' folder, open and run the demoSetup.m script in MATLAB. This script clears everything in MATLAB editor and sets it up for running the demo.
 * To start the demo, please run the startDaq.m script.
 
+[![View Wood-Species-Classification-Using-Vibration-Signature on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/89248-wood-species-classification-using-vibration-signature)
+
 Copyright 2021 The MathWorks, Inc.
